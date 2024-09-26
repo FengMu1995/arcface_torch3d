@@ -8,12 +8,12 @@ The experiment aim to evaluate the trained model and the original model(without 
 So I'd like to commit the code to github.
 
 
-## future attemp
+# # future attemp
 while self-supervising the face reconstruction, label-supervising the auto-encoded face depth-map can reap a better training weight.
 
 
 
-## Ackknowledgement
+# # Ackknowledgement
 The pro. is based on arcface_torch(https://github.com/deepinsight/insightface/tree/master/recognition/arcface_torch)
 The idea is from "He et al. - Enhancing Face Recognition With Self-Supervised 3D.pdf"
 
