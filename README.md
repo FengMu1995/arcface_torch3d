@@ -8,7 +8,7 @@ The experiment aim to evaluate the trained model and the original model(without 
 So I'd like to commit the code to github.
 
 
-## future attemp
+## Future Attemp
 while self-supervising the face reconstruction, label-supervising the auto-encoded face depth-map can reap a better training weight.
 
 
